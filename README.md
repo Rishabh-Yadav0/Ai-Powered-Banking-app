@@ -1,4 +1,4 @@
-# Web3 Motoko Web Application
+#  AI Powered Web Application
 
 This is a web application built using Web3 technology, with a backend written in Motoko and a frontend in HTML. The application provides information about mutual funds, savings accounts, transactions, and shopping.
 
